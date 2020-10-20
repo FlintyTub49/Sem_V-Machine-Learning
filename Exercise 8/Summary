@@ -1,0 +1,23 @@
+Aim: Classification of imagenet data using Neural network models
+
+Objectives:
+  Download from imagenet (Atleast ->Train-60, val-20,test-20)
+  Perform data  augmentation
+  Decide the bayes optimal error for the dataset
+  Perform classification on given dataset
+  Perform error analysis
+  Select correct architecture for maximum accuracy on cross validation and test set
+  Plot accuracy vs validation acc and loss vs validation loss during epochs
+  List hyper-parameters used and callbacks
+  Layers, units, activations (settings of activations), initializers, regularizers
+  Batchnorm, dropout rate
+  Optimizer settings - learning rate, momentum
+  Metrics
+  Loss function
+  Train, validation and test split
+  Callbacks settings - earlystopping, modelcheckpoint, reduceLR
+  Data augmentations used
+  Batch size, steps per epoch, epochs
+
+Dataset
+Indian elephants, african elephants and tuskers 
